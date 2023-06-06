@@ -14,10 +14,6 @@ body {
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
-div {
-	text-align: center;	
-}
-
 h1 {
 	margin-bottom: 20px;
 }
@@ -55,5 +51,5 @@ button:hover {
 #resultado {
 	display: none;
 	margin-top: 20px;
-	text-align: left;
+	text-align: center;
 }
